@@ -38,7 +38,7 @@ Y (10299 rows, 1 column) is created by merging y_train and y_test using rbind() 
 
 Subject (10299 rows, 1 column) is created by merging subject_train and subject_test using rbind() function
 
-Merged_Data (10299 rows, 563 column) is created by merging Subject, Y and X using cbind() function
+Merged_Data (10299 rows, 563 column) is created by merging Subject, Y and X using cbind() function.
 
 2. **Extracts only the measurements on the mean and standard deviation for each measurement**
 
